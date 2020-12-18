@@ -15780,12 +15780,8 @@ header {
   position: relative;
 }
 
-header ul.navbar-nav li.nav-item a.nav-link {
-  color: white !important;
-}
-
 header ul.navbar-nav li.nav-item a.nav-link:hover {
-  color: #00f7ff !important;
+  color: #00f7ff;
 }
 
 header:before {

@@ -5,16 +5,13 @@ header{
     position:relative;
     ul.navbar-nav{
         li.nav-item {
-                a.nav-link{
-                color:white!important;
-                &:hover{
-                    color:$lgblue!important;
-                }
+            a.nav-link{
+                    &:hover{
+                        color:$lgblue;
+                    }
             }
         }   
     }
-
-
 
     &:before{
         content:' ';

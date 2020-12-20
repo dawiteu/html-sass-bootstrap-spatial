@@ -15796,3 +15796,7 @@ header:before {
   background-image: url("../../../public/img/banner.jpg");
   background-size: cover;
 }
+
+.gallimg {
+  border: 6px solid lightblue;
+}
